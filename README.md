@@ -1,2 +1,2 @@
-# 2020.opentechsummit.de
-OpenTechSummit 2020 https://2020.opentechsummit.de
+# 2022.opentechsummit.de
+OpenTechSummit 2022 https://2022.opentechsummit.de
